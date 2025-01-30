@@ -13,6 +13,7 @@ GRANDES TELAS: ACIMA DE 1200PX
     }
     section#login{
         width: 80vw;
+        height: 350px;
 
     }
     section#login > div#imagem{
@@ -32,6 +33,7 @@ GRANDES TELAS: ACIMA DE 1200PX
     }
     section#login{
         width: 950px;
+        height: 450px;
     }
     section#login  > div#imagem{
         float: right;
